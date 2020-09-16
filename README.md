@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/vio7enc3/rsschool-cv.git
+https://vio7enc3.github.io/rsschool-cv/cv
